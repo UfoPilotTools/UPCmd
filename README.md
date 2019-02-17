@@ -1,5 +1,5 @@
 # UPCmd
-Fake Command Line for Windows XP, Vista and 7
+Fake cmd.exe for Windows XP, Vista, 7, 10
 
 upCMD replaces cmd.exe. Technical support scammers use console-commands as a fake virus scanner or to show fake hacker attacks, a.s.o.
 upCMD covers most of these commands but you can manipulate their functions in the settings.

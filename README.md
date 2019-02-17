@@ -1,5 +1,4 @@
-# UPCmd
-Fake cmd.exe for Windows XP, Vista, 7, 10 <br>
+# UPCmd -> a fake cmd.exe for Windows XP, Vista, 7, 10 
 <img stle="float:left;" src="https://github.com/UfoPilotTools/UPCmd/blob/1c807f69080b50639ca0641eaa9fcce521b68fd2/cmd.jpg">
 <br>
 Technical support scammers use console-commands as a fake virus scanner or to show fake hacker attacks, a.s.o.

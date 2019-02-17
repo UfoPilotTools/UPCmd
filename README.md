@@ -35,5 +35,4 @@ TIP 1: TakeOwnershipEx is a free tool that allows you to get full access to file
 
 TIP 2: Remove the uninstall info in the registery
 
-*** IMPORTANT : INSTALL THIS TOOL ONLY ON A VIRTUAL MACHINE (VM)! ***
 

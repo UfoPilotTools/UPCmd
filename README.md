@@ -1,6 +1,6 @@
 # UPCmd
 Fake cmd.exe for Windows XP, Vista, 7, 10
-<img style="float:right" src="https://github.com/UfoPilotTools/UPCmd/blob/1c807f69080b50639ca0641eaa9fcce521b68fd2/cmd.jpg">
+<img  src="https://github.com/UfoPilotTools/UPCmd/blob/1c807f69080b50639ca0641eaa9fcce521b68fd2/cmd.jpg">
 upCMD replaces cmd.exe. Technical support scammers use console-commands as a fake virus scanner or to show fake hacker attacks, a.s.o.
 upCMD covers most of these commands but you can manipulate their functions in the settings.
 upCMD also don’t execute any bat files.

@@ -1,11 +1,10 @@
-# UPCmd
-<img style="align:right" src="https://github.com/UfoPilotTools/UPCmd/blob/1c807f69080b50639ca0641eaa9fcce521b68fd2/cmd.jpg">
-Fake cmd.exe for Windows XP, Vista, 7, 10
-
-upCMD replaces cmd.exe. Technical support scammers use console-commands as a fake virus scanner or to show fake hacker attacks, a.s.o.
+# UPCmd | a fake cmd.exe for Windows XP, Vista, 7, 10 
+<img stle="float:left;" src="https://github.com/UfoPilotTools/UPCmd/blob/1c807f69080b50639ca0641eaa9fcce521b68fd2/cmd.jpg">
+<br>
+Technical support scammers use console-commands as a fake virus scanner or to show fake hacker attacks, a.s.o.
 upCMD covers most of these commands but you can manipulate their functions in the settings.
 upCMD also don’t execute any bat files.
-Commands TREE,NETSTAT, DIR, DEL, PING, IPCONFIG, FORMAT, HOSTNAME, CD, VOL, CLS
+Commands TREE, NETSTAT, DIR, DEL, PING, IPCONFIG, FORMAT, HOSTNAME, CD, VOL, CLS
 
 upCMD does not accept keyboard entries while a command is running. So, the scammer can not enter fake messages when p.e. the TREE command is running.
 How to install?
@@ -37,3 +36,4 @@ TIP 1: TakeOwnershipEx is a free tool that allows you to get full access to file
 TIP 2: Remove the uninstall info in the registery
 
 *** IMPORTANT : INSTALL THIS TOOL ONLY ON A VIRTUAL MACHINE (VM)! ***
+

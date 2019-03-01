@@ -11,7 +11,7 @@ How to install?
 Before we start:
 
     Install this program only on virtual machines!
-    You MUST HAVE owner rights for deleting or renaming msinfo32.exe in windows/system32. See also Tip 1 below.
+    You MUST HAVE owner rights for deleting or renaming cmd.exe in windows/system32. See also Tip 1 below.
 
  
 STEPS
